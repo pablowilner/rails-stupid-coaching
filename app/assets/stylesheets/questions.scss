@@ -1,0 +1,30 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+
+.container{
+  margin: auto;
+  width: 50vw;
+}
+.phrase {
+  border-left: 4px solid rgb(73, 192, 73);
+  padding-left: 15px;
+  background-color: rgb(249, 249, 140);
+  width: 50vw;
+}
+
+h1 {
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(67, 67, 187);
+}
+
+h2 {
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  color: lightblue;
+}
+
+h3 {
+  text-align: center;
+}
